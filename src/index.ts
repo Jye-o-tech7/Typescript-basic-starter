@@ -12,3 +12,5 @@ let user: { name: string; age: number } = {
   name: "Alice",
   age: 30,
 };
+
+console.log("printing something from the branch");
